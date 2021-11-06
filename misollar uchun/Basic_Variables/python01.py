@@ -1,7 +1,3 @@
-#Create a variable S and assign it the value of the string "Hello teacher"
+#Create a variable var1 and assign it the value of the 10
 
-#Print the value of S
-
-#Create a variable C and assign it the value of the string "My teacher Zarif"
-
-#print the value of C
+#Print the value var1
